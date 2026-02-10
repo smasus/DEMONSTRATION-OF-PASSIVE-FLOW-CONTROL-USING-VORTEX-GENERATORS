@@ -1,1 +1,2 @@
 # DEMONSTRATION-OF-PASSIVE-FLOW-CONTROL-USING-VORTEX-GENERATORS
+This project demonstrates the use of vortex generators as a passive flow control technique to delay boundary-layer separation. By generating streamwise vortices, the devices re-energize low-momentum flow near the surface, improving flow attachment and aerodynamic performance without external energy input. The study highlights their effectiveness through flow behavior comparison with and without vortex generators.
